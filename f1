@@ -1,0 +1,4 @@
+
+hello vivek aws devops 
+ssh -i "GIT.pem" ec2-user@ec2-43-205-103-118.ap-south-1.compute.amazonaws.com
+
